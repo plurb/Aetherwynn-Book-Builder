@@ -1,0 +1,8 @@
+rules:
+  barbarian:
+    order-by:
+      - "~/{([A-z]* Class)}"
+      - "~/Primal Paths/{([A-z]*)}"
+      - "~/{([A-z]* Fighting Styles)}"
+      - "~/{([A-z]* Exploits.md)}"
+      - "~/Primal Paths/{([A-z]*)}"

@@ -1,0 +1,12 @@
+schema: "aether-build"
+directories:
+  - "barbarian"
+rules:
+  barbarian:
+    sort-by: "alphabetic"
+    order:
+      - "~/{([A-z]* Class)}"
+      - "~/Primal Paths/{([A-z]*)}"
+      - "~/{([A-z]* Fighting Styles)}"
+      - "~/{([A-z]* Exploits.md)}"
+      - "~/Primal Paths/{([A-z]*)}"

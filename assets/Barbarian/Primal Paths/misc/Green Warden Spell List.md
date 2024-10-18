@@ -1,0 +1,3 @@
+# Green Warden Spell List
+
+---
